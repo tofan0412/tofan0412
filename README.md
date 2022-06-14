@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9B%85%ED%98%84-%EC%A1%B0-b24a30207/)](https://www.linkedin.com/in/%EC%9B%85%ED%98%84-%EC%A1%B0-b24a30207/)
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tofan12312@gmail.com)](mailto:tofan123123@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9B%85%ED%98%84-%EC%A1%B0-b24a30207/)](https://www.linkedin.com/in/%EC%9B%85%ED%98%84-%EC%A1%B0-b24a30207/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tofan12312@gmail.com)](mailto:tofan123123@gmail.com)
 
 <!--
 **tofan0412/tofan0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
