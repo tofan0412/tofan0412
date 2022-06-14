@@ -4,7 +4,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tofan123)](https://solved.ac/tofan123)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9B%85%ED%98%84-%EC%A1%B0-b24a30207/)](https://www.linkedin.com/in/%EC%9B%85%ED%98%84-%EC%A1%B0-b24a30207/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tofan12312@gmail.com)](mailto:tofan123123@gmail.com) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/Engineering-Blog-for-Woonghyun-121ec5613ef847d48159efcaf967e7d7)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9B%85%ED%98%84-%EC%A1%B0-b24a30207/)](https://www.linkedin.com/in/%EC%9B%85%ED%98%84-%EC%A1%B0-b24a30207/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tofan12312@gmail.com)](mailto:tofan123123@gmail.com) ![Notion](https://www.notion.so/Engineering-Blog-for-Woonghyun-121ec5613ef847d48159efcaf967e7d7?style=for-the-badge&logo=notion&logoColor=white)
 
 <!--
 **tofan0412/tofan0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
