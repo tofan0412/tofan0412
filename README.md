@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9B%85%ED%98%84-%EC%A1%B0-b24a30207/)](https://www.linkedin.com/in/%EC%9B%85%ED%98%84-%EC%A1%B0-b24a30207/)
+
 <!--
 **tofan0412/tofan0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
