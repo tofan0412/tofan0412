@@ -1,6 +1,5 @@
 # Backend Engineer
-<!-- Stats, Top Langs, Solved.ac -->
-(https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofan0412&layout=compact&theme=tokyonight)
+<!-- Solved.ac -->
 ![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tofan123)
 
